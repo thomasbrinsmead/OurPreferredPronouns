@@ -64,11 +64,6 @@ Select an appropriate row from Table 3 or follow the steps (1 and 2) below.
 
     iv.	(Optional) Choose preferred pronunciation (see Table 1 for inspiration)  
 
-Notes: Our majestic Excellencies Ourselves do not consent to being referred to in the plural by others (eg the second or third person plural), except in accordance with the capitalised honorific formulation of row 32 of Table 3, or if referred to by clearly self-identifying nonpersons. However, We may refer to Ourselves in the plural first person. In general, I do not approve of the use of plural pronouns to refer to individual persons except in the above cases. The obvious variants of tikkitikkitembonosarembocharybaryruchipipperipembofintimlinbinwhinbimlimbusstopftangfrtangolebiscuitbarrellchingchonghonglongfong (uncapitalised) as a pronoun, or changu, changum, changu’s, changus, changusself, are also acceptable. Suggested additions to the list of options are welcome, but not necessarily encouraged.
- 
-
-
-
 
 **Table 1: Initial consonant options**
 
@@ -179,3 +174,5 @@ Notes: Our majestic Excellencies Ourselves do not consent to being referred to i
 |32	|Th- (note capital-isation)	|Their majestic Excellencies	|Their majestic Excellencies	|Their majestic Excellencies’	||Their majestic Excellencies'	||Their majestic Excellencies Themselves|
 
 
+
+Additional notes: Our majestic Excellencies Ourselves do not consent to being referred to in the plural by others (eg the second or third person plural), except in accordance with the capitalised honorific formulation of row 32 of Table 3, or if referred to by clearly self-identifying nonpersons. However, We may refer to Ourselves in the plural first person. In general, I do not approve of the use of plural pronouns to refer to individual persons except in the above cases. The obvious variants of tikkitikkitembonosarembocharybaryruchipipperipembofintimlinbinwhinbimlimbusstopftangfrtangolebiscuitbarrellchingchonghonglongfong (uncapitalised) as a pronoun, or changu, changum, changu’s, changus, changusself, are also acceptable. Suggested additions to the list of options are welcome, but not necessarily encouraged.
