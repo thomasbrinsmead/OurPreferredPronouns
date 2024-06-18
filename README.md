@@ -4,8 +4,8 @@ Create your own pronouns for referring to Thomas Brinsmead. Any of the options i
 
 ||		|Subject	|Object	|Genitive|	|Possessive|	|Reflexive||
 |---|---|---|---|---|---|---|---|---|---|
-|||||  Suffix|||||
-|| Initial|  -e	|-em	|-ir	|-yr	|-irs	|-yrs	|-irself	|-yrself|						
+|||||  **Suffix**|||||
+|| **Initial**|  **-e**	|**-em**	|**-ir**	|**-yr**	|**-irs**	|**-yrs**	|**-irself**	|**-yrself**|						
 |1	|ch	|che	|chem	|chir	|chyr	|chirs	|chyrs	|chirself	|chyrself|
 |2	|cz	|cze	|czem	|czir	|czyr	|czirs	|czyrs	|czirself	|czyrself|
 |3	|d	|de	|dem	|dir	|dyr	|dirs	|dyrs	|dirself	|dyrself|
@@ -39,7 +39,7 @@ Create your own pronouns for referring to Thomas Brinsmead. Any of the options i
 |31	|it	|it	|it	|its	||its	||itself||
 |32	|Th- (note capital-isation)	|Their majestic Excellencies	|Their majestic Excellencies	|Their majestic Excellencies’	||Their majestic Excellencies'	||Their majestic Excellencies Themselves|
 
-Select an appropriate row from Table 1 or follow the steps (1 and 2) below.
+**Detailed Instructions: select any row from Table 1 or follow the steps (1 and 2) below.**
 
 1.	Choose your/thy/eower case.
 
@@ -63,7 +63,7 @@ Select an appropriate row from Table 1 or follow the steps (1 and 2) below.
 
       1.	choose spelling with ‘i’ or ‘y’, 
 
-      2.	that is: ir|yr, irs|yrs, irself|yrself (see Table 3)
+      2.	that is: ir|yr, irs|yrs, irself|yrself (see Table 1)
 
     ii.	Choose initial consonant(s) (1-28, see Table 1): 1,2, or (3 and 4)
 
@@ -75,11 +75,11 @@ Select an appropriate row from Table 1 or follow the steps (1 and 2) below.
 
         b.	Allow other letters (6, 22, 28)
 
-      3.	Choose language pronunciation inspiration (Table 3): a, b or c.
+      3.	Choose language pronunciation inspiration (Table 2): a, b or c.
 
         a.	English (1, 3, 7, 8, 11, 13, 15, 16, 21, 23, 25, 26) (row 1)
 
-        b.	European (see Table 3): i, ii, iii, iv, or v.
+        b.	European (see Table 2): i, ii, iii, iv, or v.
 
           i.	United Kingdom: Old English, Scottish, Welsh
 
@@ -91,20 +91,50 @@ Select an appropriate row from Table 1 or follow the steps (1 and 2) below.
 
           v.	Other: Greek (including modern)
 
-        c.	Asian and Arabic (see Table 3): i, or ii. 
+        c.	Asian and Arabic (see Table 2): i, or ii. 
 
           i.	Arabic
 
           ii.	Cambodian, Mandarin, Vietnamese
 
-      4.	Cross reference with Table 2 to select initial consonant(s)
+      4.	Cross reference with Table 1 to select initial consonant(s)
 
     iii.	Combine initial consonant(s) prefix with case suffix (Table 1)
 
-    iv.	(Optional) Choose preferred pronunciation (see Table 2 for inspiration)  
+    iv.	(Optional) Choose preferred pronunciation (see Table 3 for inspiration)  
 
 
-**Table 2: Initial consonant options**
+**Table 2: Language pronunciation inspiration options**
+
+|Pronunciation inspiration guide	|Reference in Table 1	|Initial consonant	|
+|---|---|---|
+|**English**	|1, 3, 7, 8, 11, 13, 15, 16, 21, 23, 25, 26	|ch, d, g, gu, j, ng, q, r, ts, x, y, z|
+|Arabic	|9, 12, 15, 26	|gh, kh, q, zh|
+|Cambodian	|12	|kh|
+|Croation	|10	|hr|
+|Czech	|18	|rz|
+|Dutch	|7	|g|
+|English	|1, 3, 7, 8, 11, 13, 15, 16, 23, 25, 26	|ch, d, g, gu, j, ng, q, r, x, y, z|
+|English (or Slavic "c")	|21	|ts (tz)|
+|French	|11, 16	|j, r|
+|German	|1	|ch|
+|Greek	|1, 14, 28	|ch, ps,  χ/Χ|
+|Greek (Modern)	|6	|ð/Đ|
+|Icelandic	|6, 22	|ð/Đ, þ/Þ|
+|Italian	|11	|j|
+|Mandarin	|11, 15, 23, 27	|j, q, x, zh|
+|Old English	|25	|y|
+|Russian	|16, 17, 27	|r, rh, zh|
+|Scottish	|9	|gh|
+|Serbian	|4, 5, 19, 20	|dj, dz, tj, tg|
+|Slovak	|2	|cz|
+|Spanish	|7, 23	|g, x|
+|Vietnamese	|3, 13, 16	|d, ng, r|
+|Walloon	|24	|xh|
+|Welsh	|17	|rh|
+
+
+**Table 3: Initial consonant options**
 
 ||	Initial Consonant	| Pronunciation inspiration guide	| See also
 |---|---|---|---|
@@ -137,37 +167,9 @@ Select an appropriate row from Table 1 or follow the steps (1 and 2) below.
 |27	|zh	|Arabic/ Russian/ Mandarin|	11 (French)  |
 |28	|χ/Χ	|Greek	|1 (Greek/ German), 7 (Dutch, Swedish), 15 (Mandarin), 9, 12|
 
+**Notes:** Any of the forms in Table 1 is permissible, though must be locally consistent. Multiple forms within the same text are permitted to make distinctions along a proximity spectrum (proximate to obviative), or simply to distinguish referents without implying any particular relative or absolute proximity. 
 
-
-**Table 3: Language pronunciation inspiration options**
-
-|Pronunciation inspiration guide	|Reference in Table 1	|Initial consonant	|
-|---|---|---|
-|**English**	|1, 3, 7, 8, 11, 13, 15, 16, 21, 23, 25, 26	|ch, d, g, gu, j, ng, q, r, ts, x, y, z|
-|Arabic	|9, 12, 15, 26	|gh, kh, q, zh|
-|Cambodian	|12	|kh|
-|Croation	|10	|hr|
-|Czech	|18	|rz|
-|Dutch	|7	|g|
-|English	|1, 3, 7, 8, 11, 13, 15, 16, 23, 25, 26	|ch, d, g, gu, j, ng, q, r, x, y, z|
-|English (or Slavic "c")	|21	|ts (tz)|
-|French	|11, 16	|j, r|
-|German	|1	|ch|
-|Greek	|1, 14, 28	|ch, ps,  χ/Χ|
-|Greek (Modern)	|6	|ð/Đ|
-|Icelandic	|6, 22	|ð/Đ, þ/Þ|
-|Italian	|11	|j|
-|Mandarin	|11, 15, 23, 27	|j, q, x, zh|
-|Old English	|25	|y|
-|Russian	|16, 17, 27	|r, rh, zh|
-|Scottish	|9	|gh|
-|Serbian	|4, 5, 19, 20	|dj, dz, tj, tg|
-|Slovak	|2	|cz|
-|Spanish	|7, 23	|g, x|
-|Vietnamese	|3, 13, 16	|d, ng, r|
-|Walloon	|24	|xh|
-|Welsh	|17	|rh|
-
-Notes: Any of the forms in Table 1 is permissible, though must be locally consistent. Multiple forms within the same text are permitted to make distinctions along a proximity spectrum (proximate to obviative), or simply to distinguish referents without implying any particular relative or absolute proximity. 
+Impermissible initial consonants: b- too existential, bh- too Irish, c- too French, f- too feminine, gl- too Italian, h- too masculine, k- too wierd, l- too French definite, ll- too Welsh, m- too masculine, mh- too Irish, n- too negative, p- too boring, ph- too fricative, s- too French, sh- too feminine, th- too secondary, v- too Germanic primary, w- too German primary
 
 Additional notes: Our majestic Excellencies Ourselves do not consent to being referred to in the plural by others (eg the second or third person plural), except in accordance with the capitalised honorific formulation of row 32 of Table 3, or if referred to by clearly self-identifying nonpersons. However, We may refer to Ourselves in the plural first person. In general, I do not approve of the use of plural pronouns to refer to individual persons except in the above cases. The obvious variants of tikkitikkitembonosarembocharybaryruchipipperipembofintimlinbinwhinbimlimbusstopftangfrtangolebiscuitbarrellchingchonghonglongfong (uncapitalised) as a pronoun, or changu, changum, changu’s, changus, changusself, are also acceptable. Suggested additions to the list of options are welcome, but not necessarily encouraged.
+
