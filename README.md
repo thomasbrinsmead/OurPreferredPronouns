@@ -1,4 +1,4 @@
-Create your own pronouns for referring to Thomas Brinsmead. Any of the options in Table 1 (rows 1-32) are permissible.
+Create your own third person pronouns for referring to Thomas Brinsmead. Any of the options in Table 1 (rows 1-32) are permissible.
 
 **Table 1: Pronoun spelling options**
 
