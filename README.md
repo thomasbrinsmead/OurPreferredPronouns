@@ -138,26 +138,26 @@ Create your own third person pronouns for referring to Thomas Brinsmead. Any of 
 
 ||	Initial Consonant	| Pronunciation inspiration guide	| See also
 |---|---|---|---|
-|1	|ch	|English/ Greek/ German|	English: 2, 19, 20; Greek/ German: 7 (Dutch, Swedish), 15 (Mandarin), 9, 12, 28|
-|2	|cz	|Slovak|	1 (English), 19, 20; |
+|1	|ch	|English/ Greek/ German|	English: 2, 15 (Mandarin), 19, 20; Greek/ German: 7 (Dutch, Swedish), 9, 12, 28|
+|2	|cz	|Slovak|	1 (English), 15 (Mandarin), 19, 20; |
 |3	|d	|English/ Vietnamese|	Vietnamese: 26, 16 (Vietnamese)|
 |4	|dj, dzh	|Serbian|	5, 7 (English), 11 (English)|
 |5	|dz	|Serbian|	4, 7 (English), 11 (English)|
 |6	|ð/Đ	|Icelandic/ Greek (Modern)	|
 |7	|g (dg)	|English/ Dutch/ Spanish/ Swedish (Old English)|	English: 4, 5, 8, 11 (English) Dutch/ Swedish: 1 (Greek/German), 15 (Mandarin), 9, 12, 28 Swedish: 25|
 |8	|gu	|English, Spanish|	7 (English)|
-|9	|gh	|Arabic/ Scottish|	1 (Greek/German), 7 (Dutch/ Swedish), 15 (Mandarin), 12, 28|
+|9	|gh	|Arabic/ Scottish|	1 (Greek/German), 7 (Dutch/ Swedish), 15 (Arabic), 12, 28|
 |10	|hr	|Croatian	|17|
 |11	|j	|French/ Italian/ English/ Mandarin|	French: 27; Italian: 26; English: 4, 5, 7 (English)|
 |12	|kh	|Arabic/ Cambodian|	1 (Greek/ German), 7 (Dutch, Swedish), 15 (Mandarin), 9, 28|
 |13	|ng	|Vietnamese/ English||	
 |14	|ps	|Greek, English	||
-|15	|q	|Mandarin/ Arabic/ English|	Mandarin: 1 (Greek/ German), 7 (Dutch, Swedish), 9, 12, 28|
+|15	|q	|Mandarin/ Arabic/ English|	Mandarin: 1 (English), 2, 19, 20; Arabic: 1 (Greek/ German), 7 (Dutch, Swedish), 9, 12, 28|
 |16	|r	|English/ French/ Russian/ Vietnamese|	Vietnamese: 26|
 |17	|rh	|Russian/ Welsh	|10|
 |18	|rz	|Czech	||
-|19	|tj	|Serbian|	2 (English), 20|
-|20	|tg	|Serbian|	2 (English), 19|
+|19	|tj	|Serbian|	1 (English), 2, 15 (Mandarin), 20|
+|20	|tg	|Serbian|	1 (English), 2, 15 (Mandarin), 19|
 |21	|ts (tz)	|English (or Slavic "c")	||
 |22	|þ/Þ	|Icelandic|	25 (Old English), 7 (Swedish)|
 |23	|x	|Mandarin/ English/ Spanish|	Mandarin: 23, Spanish: 7 (Spanish)|
@@ -165,7 +165,7 @@ Create your own third person pronouns for referring to Thomas Brinsmead. Any of 
 |25	|y	|English/ Old English|	Old English: 22, 7 (Swedish)|
 |26	|z	|English	|3 (Vietnamese), 16 (Vietnamese)|
 |27	|zh	|Arabic/ Russian/ Mandarin|	11 (French)  |
-|28	|χ/Χ	|Greek	|1 (Greek/ German), 7 (Dutch, Swedish), 15 (Mandarin), 9, 12|
+|28	|χ/Χ	|Greek	|1 (Greek/ German), 7 (Dutch, Swedish), 15 (Arabic), 9, 12|
 
 **Notes:** Any of the forms in Table 1 is permissible, though must be locally consistent. Multiple forms within the same text are permitted to make distinctions along a proximity spectrum (proximate to obviative), or simply to distinguish referents without implying any particular relative or absolute proximity. 
 
@@ -174,3 +174,13 @@ Impermissible initial consonants: b- too existential, bh- too Irish, c- too Fren
 Additional notes: Our majestic Excellencies Ourselves do not consent to being referred to in the plural by others (eg the second or third person plural), except in accordance with the capitalised honorific formulation of row 32 of Table 1, or if referred to by clearly self-identifying nonpersons. However, We may refer to Ourselves in the plural first person in writing, where capitalisation can disambiguate this pluralis excellentiarum from the plural. Thou is welcome to address Us in the second person by thou, thee, thy, thine, thyself and We Ourselves would prefer the variants of Eower majestic Excellencies rather than Your majestic Excellencies if thou accords with the form of row 32. In general, I do not approve of the use of plural pronouns to refer to individual persons except in the above cases, despite not wanting to be a grammatical pendant. The obvious variants of tikkitikkitembonosarembocharybaryruchipipperipembofintimlinbinwhinbimlimbusstopftangfrtangolebiscuitbarrellchingchonghonglongfong (uncapitalised) as a pronoun, or changu, changum, changu’s, changus, changusself, are also acceptable. Suggested additions to the list of options are welcome, but not necessarily encouraged. 
 
 Beyond my|Our|Our majestic Excellencies' personal pronouns, recommendations for exclusive and inclusive first person plural are with initial consonants "tkh-" and "v-" respectively, inspired by Chechen. To differentiate exclusive and inclusive or, I|We|Our majestic Excellencies recommend "vor" and "tor" respectively, inspired by Finnish. Sorry about the reversal. #Saussure, #arbitrary
+ 
+For further resources see 
+* 100 pronouns in standard English https://www.thefreedictionary.com/List-of-pronouns.htm
+* Some how and why of neopronouns https://uwm.edu/lgbtrc/support/gender-pronouns/
+* Including a blogpost https://www.them.us/story/gender-neutral-pronouns-101-they-them-xe-xem 
+* And a longish list: https://www.lgbtqnation.com/2022/08/incomplete-list-gender-pronouns/
+* Some history: https://blogs.illinois.edu/view/25/705317
+* Challenges of neologisms: https://blog.oup.com/2010/08/gender-neutral-pronoun/
+* A comprehensive non-themed list https://neopronounlist.carrd.co/#nonthemed
+* Every pronoun you could ever want, including noun-self neopronouns https://neopronouns-list.tumblr.com/neopronouns-list 
